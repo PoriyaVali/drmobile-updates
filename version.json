@@ -1,7 +1,7 @@
 {
-  "version": "1.0.4",
+  "version": "1.0.5",
   "build": 26,
-  "url": "https://drmobjay.com/apk/Dr.mobile_1.0.4.apk",
-  "notes": "نسخهٔ جدید: بهبود بخش ضد DPI - اضافه کردن دانلود درون برنامه ای (در صورتی که آپدیت انجام نشد ورژن قبلی را پاک کنید  و ورژن جدید را نصب کنید)",
+  "url": "https://drmobjay.com/apk/Dr.mobile_1.0.5.apk",
+  "notes": "آپدیت: اضافه کردن هسته mihomo (clash meta)",
   "force": false
 }
