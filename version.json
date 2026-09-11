@@ -1,9 +1,9 @@
 {
-  "version": "2.0.1",
-  "url": "https://github.com/PoriyaVali/drmobile-updates/releases/download/2.0.1/DoctorMobile-2.0.1-android-universal.apk",
+  "version": "2.0.2",
+  "url": "https://github.com/PoriyaVali/drmobile-updates/releases/download/2.0.2/DoctorMobile-2.0.2-android-universal.apk",
   "urls": {
-    "arm64-v8a":   "https://github.com/PoriyaVali/drmobile-updates/releases/download/2.0.1/DoctorMobile-2.0.1-android-arm64-v8a.apk",
-    "armeabi-v7a": "https://github.com/PoriyaVali/drmobile-updates/releases/download/2.0.1/DoctorMobile-2.0.1-android-armeabi-v7a.apk"
+    "arm64-v8a":   "https://github.com/PoriyaVali/drmobile-updates/releases/download/2.0.2/DoctorMobile-2.0.2-android-arm64-v8a.apk",
+    "armeabi-v7a": "https://github.com/PoriyaVali/drmobile-updates/releases/download/2.0.2/DoctorMobile-2.0.2-android-armeabi-v7a.apk"
   },
   "notes": "کلید «سراب» اضافه شد، در صفحهٔ اصلی کنار «دور زدن اختلال». روی ایرانسل تفاوت زیادی می‌سازد و روی همراه اول ضرری ندارد.\nاطلاعیه‌های پنل داخل برنامه نمایش داده می‌شوند.\nچند اشکال به‌روزرسانی برطرف شد: خطای نصب دیگر پنهان نمی‌ماند و دانلود ناقص «کامل» اعلام نمی‌شود.\nنسخهٔ متناسب با پردازندهٔ گوشی دریافت می‌شود، حدود ۵۰ مگابایت کمتر.",
   "force": false
