@@ -1,0 +1,10 @@
+{
+  "version": "2.0.6",
+  "url": "https://github.com/PoriyaVali/drmobile-updates/releases/download/2.0.6/DoctorMobile-2.0.6-android-universal.apk",
+  "urls": {
+    "arm64-v8a":   "https://github.com/PoriyaVali/drmobile-updates/releases/download/2.0.6/DoctorMobile-2.0.6-android-arm64-v8a.apk",
+    "armeabi-v7a": "https://github.com/PoriyaVali/drmobile-updates/releases/download/2.0.6/DoctorMobile-2.0.6-android-armeabi-v7a.apk"
+  },
+  "notes": "بهبود سراب - اضافه کردن درایور سراب - آپدیت اجباری",
+  "force": true
+}
