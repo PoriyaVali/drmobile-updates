@@ -1,6 +1,6 @@
 {
-  "version": "2.0.6",
-  "url": "https://github.com/PoriyaVali/drmobile-updates/releases/download/2.0.6/DoctorMobile-2.0.6-windows-x64-setup.exe",
-  "notes": "رفع باگ - آپدیت اجباری",
+  "version": "2.1.3",
+  "url": "https://github.com/PoriyaVali/drmobile-updates/releases/download/2.1.3/DoctorMobile-2.1.3-windows-x64-setup.exe",
+  "notes": "رفع باگ و امنیت بیشتر اتصال mdns",
   "force": false
 }
