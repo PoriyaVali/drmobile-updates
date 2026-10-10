@@ -1,6 +1,6 @@
 {
-  "version": "2.1.3",
-  "url": "https://github.com/PoriyaVali/drmobile-updates/releases/download/2.1.3/DoctorMobile-2.1.3-windows-x64-setup.exe",
-  "notes": "رفع باگ و امنیت بیشتر اتصال mdns",
-  "force": false
+  "version": "2.2.1",
+  "url": "https://github.com/PoriyaVali/drmobile-updates/releases/download/2.2.1/DoctorMobile-2.2.1-windows-x64-setup.exe",
+  "notes": "۱. افزودن میانبر روشن و خاموش کردن لودبالانسر MDNS\n۲. افزودن پشتیبانی از لینک‌های جایگزین دانلود (میرور)\n۳. افزایش آی‌پی‌های مورد اسکن به ۲۰ هزار، شامل رزولرهای ایرانی\n۴. رفع گیرکردن تکمیل و توقف اسکن رزولرها در ویندوز\n۵. افزودن محافظ جلوگیری از نشتی IPv6 و DNS در ویندوز\n۶. اصلاح توقف MDNS و تعویض هسته اتصال\n۷. بهبود پایش سلامت و بازیابی اتصال MDNS\n۸. اصلاح مدیریت ارتباط UDP در ویندوز و اندروید\n۹. به‌روزرسانی هسته Mihomo",
+  "force": true
 }
