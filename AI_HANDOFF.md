@@ -1,0 +1,19 @@
+# AI work log and handoff
+
+## Active handoff - 2026-10-17 - Codex - verified2.2.3 artifacts ready; updater NOT activated
+
+Objective: complete the owner-authorized Android/Windows2.2.3 publication. Exact files in this commit: version.json, windows/version.json, AI_HANDOFF.md. The isolated release/2.2.3 branch is prepared; main must stay on the prior release until all5 public download URLs pass anonymous checks.
+
+SOURCE MERGED/BUILT: appPR14 fc861ee7c19b59e49ebac12aca4fc53a9503b829, tagv2.2.3; GitHubActions39012337179 succeeds for tests, Android, Windows and draft release. Native pins: integration0e3628921db1b110ca83982ca1c917135a5ed3f7/core4.1.7; Sing-box76e4f8d548763167656138db749ad122ec3abebb/1.13.21-dm1; Mihomo5dcbf0b34f64c5927e089aa5e68eff553efa384b/1.19.32-dm3. Existing Android signing identity and Windows installer AppId/executable/install-directory/admin policy are preserved.
+
+VALIDATED BEFORE PUBLICATION: all5 downloaded private-draft artifacts,203 checks passed/0failed. All3 APK signatures verified with original certificate SHA256 a3e2fd30008124bc2358c084fd8907b5fa9c179266088a995bf830a400d702c4; app.drmobile.com,2.2.3/build147,SDK24/36,ABIs,required cores and universal/split native byte equality pass. Windows runner2.2.3.147, DLL runtime4.1.7/Sing-box1.13.21-dm1, Mihomo1.19.32-dm3, dependency import graph and ZIP integrity pass. Exact successful CI and app gitlink prove both native source checkouts. Independent audit also matched all375 installer staging paths against all375 portable ZIP files. Installer payload bytes were not independently extracted or installed. Inno's optional PE binary version defaults0.0.0.0; its application ProductVersion is2.2.3+147 and actual runner version is correct. Windows has no Authenticode signing certificate, consistent with existing builds.
+
+Final merged-tree local Flutter1215pass/3platformskip/0fail; LinuxCI1208pass/10platformskip/0fail. Analyzer0errors,30warnings/1085infos; not lint-clean. Local JVM96tests passed and all74 production Kotlin files compiled against final4.1.7 AAR; CI release Kotlin compile and testReleaseUnitTest separately succeeded. Native production tests/race/builds passed with inherited unshipped optional Sing-box test limitations recorded in the source audit. No physical-device/VPN-traffic or Windows install execution test is claimed.
+
+PUBLICATION PENDING at this commit: source release remains draft, no public2.2.3 release yet, updater main unchanged. Upload exactly the same verified5 files, compare GitHub digests, publish source/public releases, verify anonymous public URLs, then fast-forward main. Android universal default/ABI links, Windows installer URL and existing force:true policy were parsed and verified. Update this handoff with actual publication evidence afterward; do not mistake a prepared branch/tag for updater activation.
+
+## Previous handoff - 2026-10-17 - Codex - Doctor Mobile2.2.3 updater prepared, NOT activated
+
+Objective: publish the verified Android/Windows2.2.3 release and update existing users through the established public manifests. Exact files: version.json, windows/version.json, AI_HANDOFF.md. Version2.2.3/build147; Android universal remains the default URL, ARM64/v7a remain per-ABI URLs, Windows remains the x64 installer. Existing force:true policy and unrelated fields are preserved. Release notes describe connection/MDNS/Android/account/gift/AnyTLS fixes.
+
+State: local prepared changes only. No2.2.3public release/assets/main-branch update has been published from this checkout. Signed-artifact and public-download validation are PENDING. Keep main on the prior working manifests until all five new artifacts are verified and publicly downloadable. No device/install test is inferred from packaging checks. Update this handoff with actual validation/publication evidence before activating main.
