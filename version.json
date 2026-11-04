@@ -1,9 +1,9 @@
 {
-  "version": "2.2.5",
-  "url": "https://github.com/PoriyaVali/drmobile-updates/releases/download/2.2.5/DoctorMobile-2.2.5-android-universal.apk",
+  "version": "2.2.10",
+  "url": "https://github.com/PoriyaVali/drmobile-updates/releases/download/2.2.10/DoctorMobile-2.2.10-android-universal.apk",
   "urls": {
-    "arm64-v8a": "https://github.com/PoriyaVali/drmobile-updates/releases/download/2.2.5/DoctorMobile-2.2.5-android-arm64-v8a.apk",
-    "armeabi-v7a": "https://github.com/PoriyaVali/drmobile-updates/releases/download/2.2.5/DoctorMobile-2.2.5-android-armeabi-v7a.apk"
+    "arm64-v8a": "https://github.com/PoriyaVali/drmobile-updates/releases/download/2.2.10/DoctorMobile-2.2.10-android-arm64-v8a.apk",
+    "armeabi-v7a": "https://github.com/PoriyaVali/drmobile-updates/releases/download/2.2.10/DoctorMobile-2.2.10-android-armeabi-v7a.apk"
   },
   "notes": "۱. بهبود عملکرد و پایداری هسته‌ها در اینترنت‌های ضعیف و پراختلال\n۲. بهبود شناسایی بهترین سرور، تست پینگ و اتصال خودکار\n۳. افزودن تعرفه دست‌دوز با حجم و مدت دلخواه\n۴. اکنون می‌توانید برای دوستان، خانواده و دیگران «کارت هدیه» بخرید\n۵. بهبود فرایند خرید و پرداخت\n۶. طراحی جدید آیکن‌ها و هماهنگی با تم روشن و تاریک",
   "force": true
