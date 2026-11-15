@@ -1,6 +1,6 @@
 {
-  "version": "2.2.10",
-  "url": "https://github.com/PoriyaVali/drmobile-updates/releases/download/2.2.10/DoctorMobile-2.2.10-windows-x64-setup.exe",
-  "notes": "رفع مشکل همراه اول در هسته mihomo",
+  "version": "2.3.5",
+  "url": "https://github.com/PoriyaVali/drmobile-updates/releases/download/2.3.5/DoctorMobile-2.3.5-windows-x64-setup.exe",
+  "notes": "بهینه سازی ، افزایش سرعت ، کاهش استفاده از منابع دیوایس ، سرعت بهتر در انتخاب سرور مناسب و ...",
   "force": true
 }
