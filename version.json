@@ -1,10 +1,10 @@
 {
-  "version": "2.2.10",
-  "url": "https://github.com/PoriyaVali/drmobile-updates/releases/download/2.2.10/DoctorMobile-2.2.10-android-universal.apk",
+  "version": "2.3.5",
+  "url": "https://github.com/PoriyaVali/drmobile-updates/releases/download/2.3.5/DoctorMobile-2.3.5-android-universal.apk",
   "urls": {
-    "arm64-v8a": "https://github.com/PoriyaVali/drmobile-updates/releases/download/2.2.10/DoctorMobile-2.2.10-android-arm64-v8a.apk",
-    "armeabi-v7a": "https://github.com/PoriyaVali/drmobile-updates/releases/download/2.2.10/DoctorMobile-2.2.10-android-armeabi-v7a.apk"
+    "arm64-v8a": "https://github.com/PoriyaVali/drmobile-updates/releases/download/2.3.5/DoctorMobile-2.3.5-android-arm64-v8a.apk",
+    "armeabi-v7a": "https://github.com/PoriyaVali/drmobile-updates/releases/download/2.3.5/DoctorMobile-2.3.5-android-armeabi-v7a.apk"
   },
-  "notes": "رفع مشکل همراه اول در هسته mihomo",
+  "notes": "بهینه سازی ، افزایش سرعت ، کاهش استفاده از منابع دیوایس ، سرعت بهتر در انتخاب سرور مناسب و ...",
   "force": true
 }
