@@ -1,10 +1,10 @@
 {
-  "version": "2.3.5",
-  "url": "https://github.com/PoriyaVali/drmobile-updates/releases/download/2.3.5/DoctorMobile-2.3.5-android-universal.apk",
+  "version": "2.4.2",
+  "url": "https://github.com/PoriyaVali/drmobile-updates/releases/download/2.4.2/DoctorMobile-2.4.2-android-universal.apk",
   "urls": {
-    "arm64-v8a": "https://github.com/PoriyaVali/drmobile-updates/releases/download/2.3.5/DoctorMobile-2.3.5-android-arm64-v8a.apk",
-    "armeabi-v7a": "https://github.com/PoriyaVali/drmobile-updates/releases/download/2.3.5/DoctorMobile-2.3.5-android-armeabi-v7a.apk"
+    "arm64-v8a": "https://github.com/PoriyaVali/drmobile-updates/releases/download/2.4.2/DoctorMobile-2.4.2-android-arm64-v8a.apk",
+    "armeabi-v7a": "https://github.com/PoriyaVali/drmobile-updates/releases/download/2.4.2/DoctorMobile-2.4.2-android-armeabi-v7a.apk"
   },
-  "notes": "بهینه سازی ، افزایش سرعت ، کاهش استفاده از منابع دیوایس ، سرعت بهتر در انتخاب سرور مناسب و ...",
+  "notes": "فروشگاه یکپارچه و خرید محصولات دیجیتال، تب «مالی» و ارسال رسید کارت‌به‌کارت، دکمهٔ اتصال نئونی و سازگار با گوشی‌های کوچک، تحلیل هوشمند شبکه و تنظیمات هر اپراتور، دانلود آپدیت متناسب با پردازندهٔ گوشی، پایداری بیشتر mdns و رفع ده‌ها باگ.",
   "force": true
 }
